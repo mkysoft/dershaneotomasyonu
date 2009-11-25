@@ -1,0 +1,11 @@
+#summary Kaynak kodların kullanımı.
+#labels Phase-Implementation
+
+= Kaynak Kodlar =
+
+Dershane Otmasyonu vX soruce dosyasının kullanımı.
+
+
+= Ayrıntılar =
+
+Kaynak kodlar içirisinde veri tabanı yer almamaktadır, veri tabanı Dershane Otomasyonu with MySQL ile birlikte yer almaktadır.
