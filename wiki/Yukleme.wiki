@@ -1,4 +1,4 @@
-#summary Yükeleme ayrıntıları.
+#summary Yükleme ayrıntıları.
 
 = Yükleme =
 
