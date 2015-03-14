@@ -1,0 +1,78 @@
+:TITLE Dershane Otomasyonu Yardýmý
+:BASE DershaneOtomasyonu.hlp
+1 Dershane Otomasyonu
+2 Dershane Otomasyonu=Dershane_Otomasyonu@DershaneOtomasyonu.hlp
+2 mky® yazlýlým=Mky_yazlylym@DershaneOtomasyonu.hlp
+2 Kýsayol Tuþlarý=Kysayol_Tulary@DershaneOtomasyonu.hlp
+2 Programýn Bölümleri
+3 Programýn Bölümleri=Programyn_Boeluemleri@DershaneOtomasyonu.hlp
+3 Öðrenciler
+4 Öðrenciler=Oerenci@DershaneOtomasyonu.hlp
+4 Öðrenci Ekraný
+5 Öðrenci Ekraný=fr_ogrenci@DershaneOtomasyonu.hlp
+5 tx_sinifi=tx_sinifi@DershaneOtomasyonu.hlp
+5 bt_ogrenci_bul=bt_ogrenci_bul@DershaneOtomasyonu.hlp
+5 bt_bos_ogr_no_soyle=bt_bos_ogr_no_soyle@DershaneOtomasyonu.hlp
+5 bt_kayitkarti=bt_kayitkarti@DershaneOtomasyonu.hlp
+5 DBNavigator1=DBNavigator1@DershaneOtomasyonu.hlp
+5 sayfalar=sayfalar@DershaneOtomasyonu.hlp
+5 sayfalar_taksit=sayfalar_taksit@DershaneOtomasyonu.hlp
+5 gr_taksitler=gr_taksitler@DershaneOtomasyonu.hlp
+5 gr_notlar=gr_notlar@DershaneOtomasyonu.hlp
+5 lb_geciken_kalan=lb_geciken_kalan@DershaneOtomasyonu.hlp
+5 bt_odeme_islemi=bt_odeme_islemi@DershaneOtomasyonu.hlp
+5 bt_sil=bt_sil@DershaneOtomasyonu.hlp
+5 bt_ekle=bt_ekle@DershaneOtomasyonu.hlp
+5 tx_kayit_bedeli=tx_kayit_bedeli@DershaneOtomasyonu.hlp
+5 bt_geciken_borc=bt_geciken_borc@DershaneOtomasyonu.hlp
+5 sayfalar_odeme_durumu=sayfalar_odeme_durumu@DershaneOtomasyonu.hlp
+5 gr_odeme_durumu=gr_odeme_durumu@DershaneOtomasyonu.hlp
+5 lb_geciken_borc=lb_geciken_borc@DershaneOtomasyonu.hlp
+5 lb_kalan_borc=lb_kalan_borc@DershaneOtomasyonu.hlp
+5 lb_geciken_borc_yazi=lb_geciken_borc_yazi@DershaneOtomasyonu.hlp
+5 lb_kalan_borc_yazi=lb_kalan_borc_yazi@DershaneOtomasyonu.hlp
+5 sayfalar_evrak_durumu=sayfalar_evrak_durumu@DershaneOtomasyonu.hlp
+5 gr_evrak_durumu=gr_evrak_durumu@DershaneOtomasyonu.hlp
+5 bt_evraklari_ekle=bt_evraklari_ekle@DershaneOtomasyonu.hlp
+5 sayfalar_bilgileri=sayfalar_bilgileri@DershaneOtomasyonu.hlp
+5 bt_yeni_veli=bt_yeni_veli@DershaneOtomasyonu.hlp
+5 bt_veli_iptal=bt_veli_iptal@DershaneOtomasyonu.hlp
+5 bt_veli_sec=bt_veli_sec@DershaneOtomasyonu.hlp
+5 bilgi_sayfalari=bilgi_sayfalari@DershaneOtomasyonu.hlp
+5 bilgi_sayfalari_ayrintili=bilgi_sayfalari_ayrintili@DershaneOtomasyonu.hlp
+5 bilgi_sayfalari_genel=bilgi_sayfalari_genel@DershaneOtomasyonu.hlp
+5 tx_durumu=tx_durumu@DershaneOtomasyonu.hlp
+5 tx_grubu1=tx_grubu1@DershaneOtomasyonu.hlp
+5 tx_grubu2=tx_grubu2@DershaneOtomasyonu.hlp
+5 tx_grubu3=tx_grubu3@DershaneOtomasyonu.hlp
+5 veli_sayfalari=veli_sayfalari@DershaneOtomasyonu.hlp
+5 veli_sayfalari_genel=veli_sayfalari_genel@DershaneOtomasyonu.hlp
+5 ck_bsms=ck_bsms@DershaneOtomasyonu.hlp
+5 ck_bemail=ck_bemail@DershaneOtomasyonu.hlp
+5 ck_bfax=ck_bfax@DershaneOtomasyonu.hlp
+5 veli_sayfalari_ayrintilar=veli_sayfalari_ayrintilar@DershaneOtomasyonu.hlp
+3 Grup Bazýnda Kayýtlar=Grup_Bazynda_Kayytlar@DershaneOtomasyonu.hlp
+3 Muhasebe
+4 Muhasebe=Muhasebe@DershaneOtomasyonu.hlp
+4 Genel Rapor Ekraný=Genel_Rapor_Ekrany@DershaneOtomasyonu.hlp
+3 Ýletiþim
+4 Ýletiþim=Yletiim@DershaneOtomasyonu.hlp
+4 Mesaj Gönder
+5 Mesaj Gönder=fr_mesaj_gonder@DershaneOtomasyonu.hlp
+5 Hazýr Mesajlar=bt_hazir_mesajlar@DershaneOtomasyonu.hlp
+5 Kullanýlabilecek Degiþkenler=bt_degiskenler@DershaneOtomasyonu.hlp
+5 Kontor Bilgisi=bt_kontor_bilgisi@DershaneOtomasyonu.hlp
+5 Mesaj Giriþi=tx_mesaj@DershaneOtomasyonu.hlp
+5 Kaydet=bt_kaydet@DershaneOtomasyonu.hlp
+5 Farklý Kaydet=bt_farkli_kaydet@DershaneOtomasyonu.hlp
+5 Sil=bt_sil@DershaneOtomasyonu.hlp
+5 Temizle=bt_temizle@DershaneOtomasyonu.hlp
+5 Gönder=bt_gonder@DershaneOtomasyonu.hlp
+5 Komutlar=gr_komutlar@DershaneOtomasyonu.hlp
+5 Çalýþtýr=bt_calistir@DershaneOtomasyonu.hlp
+5 Alýcýlar Tablosu=gr_alicilar@DershaneOtomasyonu.hlp
+4 Ayarlar
+5 Ayarlar=Ayarlar@DershaneOtomasyonu.hlp
+5 SMS Ayarlarý=SMS_Ayarlary@DershaneOtomasyonu.hlp
+5 Eposta Ayarlarý=Eposta_Ayarlary@DershaneOtomasyonu.hlp
+1 SQL=SQL@DershaneOtomasyonu.hlp
